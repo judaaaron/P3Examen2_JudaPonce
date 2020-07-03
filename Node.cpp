@@ -9,7 +9,7 @@ void Node:: setNext(Node* nodo){
 }
 		
 Node* Node:: getNext(){
-	 this-> nodo;
+	return this->nodo;
 }
 
 Node::~Node()
